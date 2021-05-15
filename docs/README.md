@@ -4,22 +4,22 @@
 
 |key|value|
 |---|---|
-|氏名|川俣 涼（Kawamata Ryo）|
-|生年月日|1989/04/25|
-|Twitter|[@KawamataRyo](https://twitter.com/KawamataRyo)|
-|Qiita|[@ryo2132](https://qiita.com/ryo2132)|
-|note|[ryo_kawamata](https://note.com/ryo_kawamata)|
-|Zenn|[ryo_kawamata](https://zenn.dev/ryo_kawamata)|
-|SpeakerDeck|[kawamataryo](https://speakerdeck.com/kawamataryo)|
+|氏名|市川 周（Ichikawa Shu）|
+|生年月日|1999/03/28|
+|Twitter|[@shu_chikanne](https://twitter.com/shu_chikanne)|
+|Qiita|[@gattyan27](https://qiita.com/gattyan27)|
+|note|[shu_chikanne](https://note.com/shu_chikanne)|
+|Zenn|[gattyan27](https://zenn.dev/gattyan27)|
 
 ---
 
 ## 保有スキル
 
-- JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
-- レガシーコードからモダンなフロントエンドへのリファクタリング
-- UT を基本とした保守性と再利用性を意識したコーディング
-- Ruby on Rails, Django でのサーバーサイド開発
+- PHP / Laravel or CakePHPでのサーバーサイド開発・設計
+- JavaScript / TypeScript + React + GraphQL + Apolloでのフロントエンド開発・設計
+- 責務の切り分けを意識したクラス設計＆コーディング
+- メンバーのメンタリング業務
+- エンジニア採用業務（新卒・中途）
 - 勉強会、社内学習のコミュニティ形成
 - アジャイル、スクラムの進行
 
@@ -29,86 +29,45 @@
 
 ### 言語
 
+- PHP
+- Python
 - TypeScript
 - JavaScript
-- Ruby
-- Python
-- PHP（副業）
-- Kotlin
-- Java
 
 ### フレームワーク・その他
 
-- Vue.js
-- React（個人開発）
-- Gatsby.js（個人開発）
-- Hasura（個人開発）
-- Ruby on Rails
-- Spring Boot
-- Firebase（副業）
+- React
+- Laravel
+- CakePHP
 - GraphQL
+- Apollo
+- MySQL
+- AWS
+- Docker
 
 ---
 
 ## 職務経歴詳細
 
-### LAPRAS式会社（2021/03〜現在）
-AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
+### 株式会社Hajimari（2020/04〜現在）
+スタートアップ向けマッチングサイト構築パッケージ [PIECE](https://piece-matching.com/) の開発。
 - **プロジェクト規模：**
-    - 平均 5〜9 人チームでのスクラム開発
+    - 平均 3〜5 人チームでの開発
 - **プロジェクト詳細：**
-    - Vue.js での SPA 開発
-    - Python, Django での API 開発
+    - Laravel での 開発
 
-### 弥生株式会社（2020/07〜2021/02）
-
-※ 株式会社 Misoca の吸収合併による転籍。業務内容は株式会社 Misoca と変わらず。
-
-### 株式会社Misoca（2019/04〜2020/06）
-
-クラウド請求書管理サービス Misoca の開発・運用。
+クラウド目標管理システム 開発
 - **プロジェクト規模：**
-    - 平均 2〜4 人チームでのアジャイル開発
-- **役割：**
-    - 機能検討（インセプションデッキ作成 etc）、設計、コーディング、レビュー
+    - 平均 3〜5 人チームでの開発
 - **プロジェクト詳細：**
-    - TypeScript + Vue.js での SPA 開発
-    - Ruby on Rails でのフロント・モバイルアプリ向け API の開発
-    - フロント全コードの JavaScript から TypeScript へのリプレイス
-    - レガシーコード（jQuery）から Vue.js へのリファクタリング
-    - GraphQL, Vue Composition API を使った新機能の開発
-    - 社外・社内勉強会の企画運営
-
-### エムスリー株式会社（2018/02〜2019/03）
-
-医療従事者向け総合医療情報サービス m3.com の開発・運用。
-- **プロジェクト規模：**
-    - 平均 1〜2 人チームでの開発
-- **役割：**
-    - コーディング、レビュー、チームビルディング
-- **プロジェクト詳細：**
-    - Java 独自フレームワークのレガシーシステムから Spring Boot へのリニューアル
-    - サーバーサイド Kotlin の導入、Vue.js での SPA サイト構築
-    - Storybook の導入、コンポーネントライブラリの作成
-
-### 地方消防本部（2012/04〜2017/12）
-
-消防士として消防活動、救急活動に従事する傍ら救急報告書の作成支援システムを自作・運用。
-- **プロジェクト規模：**
-    - 個人開発
-- **役割：**
-    - 機能検討、設計、デザイン、コーディング、導入交渉
-- **プロジェクト詳細：**
-    - Electron + Vue での入力支援システム、Excel VBA での報告書エラーチェッカーの開発
-        - 年間で 4,000 時間の業務時間削減に貢献
-        - [https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department](https://speakerdeck.com/kawamataryo/improvement-at-the-fire-department)
-
+    - TypeScript / React での SPA 開発
+    - Go での API 開発
 
 ---
 
 ## 業務外活動
 
-### OSS活動
+<!-- ### OSS活動
 
 - **type-challenges のメンバー（日本語ローカライズを担当）**
     - [type-challenges](https://github.com/type-challenges/type-challenges)
@@ -133,9 +92,9 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 - **ソフトウェア受託開発**
     - 担当：実装
     - 使用技術：JavaScript, TypeScript, Vue.js, React, Firebase
-    - 元同僚が起業した会社の受託開発業務のサポート。フロントエンドの実装を主に行う
+    - 元同僚が起業した会社の受託開発業務のサポート。フロントエンドの実装を主に行う -->
 
-### 技術記事投稿
+<!-- ### 技術記事投稿
 
 - **Qiita**
     - 消防士時代から投稿を続け 2021/04 現在、143 記事、 10,293LGTM
@@ -181,16 +140,16 @@ AI ヘッドハンティングサービス LAPRAS SCOUT の開発。
 - **YouTube**
   - [消防士からエンジニアへ（ゲスト：川俣さん） #エンジニアと人生 Vol.28](https://www.youtube.com/watch?v=bP8hTmGixuI&t=1587s)
 
----
+--- -->
 
 ## 意欲・興味
 - 少人数チームで小さく早くリリースを行い、フィードバックを受けながら改善のサイクルを回していく開発スタイルを好みます
 - 新しい技術・分野などに抵抗はなく、学習しながらアウトプットをすることが得意です
 - ペアプロ・モブプロを積極的に取り入れ、チームで暗黙知の共有や、技術の継承を行っていきたいと思っています
 - フロントエンドの開発が比較的得意ですが、バックエンド、インフラ面への興味もあります
+- 開発のみならず、会社の成長に合わせたエンジニア採用や心理的安全性の高いエンジニア組織づくりに興味があります
 
 ---
 
 ## 希望条件
-- 地方在住なのでフルリモートワークでの勤務を希望します（月数回の出社等は可）
 - ユーザーファーストなプロダクトを作っていく過程が好きです。言われたものをただ作るのではなく、機能要件に対しても一緒に考えていける組織だと良いです
