@@ -15,8 +15,8 @@
 
 ## 保有スキル
 
-- PHP / Laravel or CakePHPでのサーバーサイド開発・設計
-- JavaScript / TypeScript + React + GraphQL + Apolloでのフロントエンド開発・設計
+- PHP / Laravel or CakePHP でのサーバーサイド開発・設計
+- JavaScript / TypeScript + React + GraphQL + Apollo でのフロントエンド開発・設計
 - 責務の切り分けを意識したクラス設計＆コーディング
 - メンバーのメンタリング業務
 - エンジニア採用業務（新卒・中途）
